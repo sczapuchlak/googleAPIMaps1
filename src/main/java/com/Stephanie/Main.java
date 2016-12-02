@@ -15,7 +15,7 @@ public class Main {
     public static Scanner numberScanner = new Scanner(System.in);
 
     public static void main(String[] args) throws Exception {
-// write your code here
+
 
         String googleElevationkey = null;
         //Read key from file
